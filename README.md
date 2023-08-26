@@ -29,15 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsethss82&" alt="shivamsethss82" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShivamSethss82&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 📈 My GitHub Contributions
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shivamsethss82/Shivamsethss82/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
