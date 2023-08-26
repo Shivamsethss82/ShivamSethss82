@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Seth</h1>
-<h3 align="center">A Passionate DevOps-Driven Fullstack Developer from India. Curruntly I working in IT sector.</h3>
+<h3 align="center">A Passionate DevOps-Driven Fullstack Developer from India.Currently I'am working in IT sector.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsethss82&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsethss82" /> </p>
 
