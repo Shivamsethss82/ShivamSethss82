@@ -1,16 +1,16 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeazin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Shivamsethss82)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ShivamSethss82&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Shivamsethss82)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-seth-2a0921171/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:shivamsethss82@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ShivamSethss82&color=brightgreen&style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-<h4>Hi I am Shivam 💇‍♂️ , A DevOps-Driven Fullstack deveolper from India.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi I am Shivam Seth💇‍♂️ , A DevOps-Driven Fullstack deveolper from India.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
@@ -132,7 +132,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
 <!--
-**yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shivam seth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
