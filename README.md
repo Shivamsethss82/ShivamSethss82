@@ -1,24 +1,23 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeazin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeazin)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeazin&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Shivamsethss82)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeazin/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:naz.yeasin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-seth-2a0921171/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:shivamsethss82@gmail.com)
 ![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen&style=for-the-badge)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yeazin.io)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-<h4>Hi I am Yeasin 💇‍♂️ , a passoniate Fullstack deveolper from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi I am Shivam 💇‍♂️ , A DevOps-Driven Fullstack deveolper from India.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamsethss82&theme=radical&layout=compact)](https://github.com/Shivamsethss82) </td>
    </tr>
   </table>
   
@@ -26,7 +25,7 @@
 
 
   
-<h2> Technologies I like to work with ❤️</h2>
+<h2> Technologies I worked with :-</h2>
  <table width="100% height="100%" align="center">
    <tr>
       <td>
@@ -94,7 +93,7 @@
 
 
 
-[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yeazin&theme=github-compact)](https://github.com/yeazin/github-readme-activity-graph)
+[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivamsethss82&theme=github-compact)](https://github.com/Shivamsethss82/github-readme-activity-graph)
 
 
  
@@ -116,14 +115,14 @@
 <br>
 <br>
 
-## Let's colab 🚀
+## Connect Mode:- 🚀
 
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
 <p>
-  <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="mailto:naz.shivamsethss82@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="wa.me/09793338682" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shivam-seth-2a0921171/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
 
 
@@ -145,6 +144,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
+<a href="https://github.com/Shivamsethss82/"><img src="https://img.shields.io/github/Shivamsethss82" alt="Stars Badge"/></a>
 
 -->
