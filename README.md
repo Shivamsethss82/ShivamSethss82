@@ -16,7 +16,7 @@
    <tr>
      <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shivamsethss82&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamsethss82&theme=radical&layout=compact)](https://github.com/Shivamsethss82) </td>
    </tr>
   </table>
@@ -99,17 +99,17 @@
  
  
 <h2> My Projects 📁</h2>
-<a href="https://github.com/yeazin/Movement-Pass-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
+<a href="https://github.com/Shivamsethss82/SETH_CART">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=SETH_CART" />
 </a>
-<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
+<a href="https://github.com/Shivamsethss82/Django-CRM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=Django-CRM" />
 </a>
- <a href="https://github.com/yeazin/Stackoverflow-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
+ <a href="https://github.com/Shivamsethss82/Simple-DevOps-Projecte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=Simple-DevOps-Projecte" />
 </a>
- <a href="https://github.com/yeazin/Zooming-cls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
+ <a href="https://github.com/Shivamsethss82/MyChatApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=MyChatApp" />
 </a>
 
 <br>
