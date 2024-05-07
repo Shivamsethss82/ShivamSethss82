@@ -105,8 +105,8 @@
 <a href="https://github.com/Shivamsethss82/Django-CRM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=Django-CRM" />
 </a>
- <a href="https://github.com/Shivamsethss82/Simple-DevOps-Projecte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=Simple-DevOps-Projecte" />
+ <a href="https://github.com/Shivamsethss82/Simple-DevOps-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=Simple-DevOps-Project" />
 </a>
  <a href="https://github.com/Shivamsethss82/MyChatApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=MyChatApp" />
