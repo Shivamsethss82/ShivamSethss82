@@ -3,8 +3,12 @@
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
+<div align="center" markdown="1">
 
+# :wave: Welcome to my GitHub Profile!  
 ![](https://komarev.com/ghpvc/?username=ShivamSethss82&color=brightgreen&style=for-the-badge)
+</div>
+
 
 <h4>Hi I am Shivam Seth💇‍♂️ , A DevOps-Driven Fullstack deveolper from India. I'm delighted to welcome you here. I have a profound knowledge in Java, Spring Boot, Python & React, enabling me to craft elegant and efficient solutions. I love to work with new Technologies and like to learn new things everytime, where every challenge becomes an opportunity to uncover new horizons and redefine possibilities.<h4>
 
@@ -66,16 +70,16 @@
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </td>
      <td align="center">
-          <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+          <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
      </td> 
      <td align="center">
-       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+      <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
      </td>
         <td align="center">
-       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
      </td>
       <td align="center">
-       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td> 
     <td align="center">
        <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
