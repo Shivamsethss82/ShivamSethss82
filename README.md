@@ -10,7 +10,11 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-<h4>Hi I am Shivam Seth💇‍♂️ , A DevOps-Driven Fullstack deveolper from India.I am a Self-taught software Developer. I have a profound knowledge in Java, Spring Boot, Django & Rest Framework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<div align="justify" markdown="1">
+  
+Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion for pushing the boundaries of technology, I consider myself not just an AI enthusiast, but also a relentless problem solver. My journey in the world of programming has honed my skills in languages like C/C++ and Python, enabling me to craft elegant and efficient solutions. I find true joy in delving into the intricate landscapes of artificial intelligence, where every challenge becomes an opportunity to uncover new horizons and redefine possibilities.
+
+</div>
 
  <table align="center" width="100%" height="100%" >
    <tr>
@@ -51,6 +55,9 @@
     </td>
      <td align="center">
       <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+    </td>
+     <td align="center">
+      <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
     </td>
      <td align="center">
       <img alt="intellij" height=64px src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
@@ -101,7 +108,7 @@
 
  
  
-<h2> My Projects 📁</h2>
+<h2> My Repo.. 📁</h2>
 <a href="https://github.com/Shivamsethss82/SETH_CART">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shivamsethss82&theme=react&repo=SETH_CART" />
 </a>
@@ -118,7 +125,37 @@
 <br>
 <br>
 
-## Connect Mode:- 🚀
+<div align="center" markdown="1">
+# :handshake: Let's Connect
+</div>
+<div align="justify" markdown="1">
+  
+I'm always eager to connect with like-minded individuals, developers, and tech enthusiasts. Reach out to me through the following platforms:
+
+</div>
+
+<div align="center" markdown="1">
+
+
+[![BioLink](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://preeminent-parfait-05b848.netlify.app/)
+
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-seth-2a0921171/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShivamSethss82/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamsethss82@gmail.com)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/SHIVAMSETHJI/) 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shivamsethss82)
+
+</div>
+
+
+<div align="justify" markdown="1">
+
+Don't hesitate to drop me a message, whether it's for a collaboration, an exciting project idea, or just to say hello! Thank you for visiting my GitHub profile. Feel free to explore my projects, star your favorites, and let's embark on an incredible coding journey together. Together, we can make a positive impact on the world through code!
+
+</div>
+
+
+<!-- ## Connect Mode:- 🚀
 
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
@@ -130,7 +167,7 @@
 
 
 <br>
-
+ -->
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
