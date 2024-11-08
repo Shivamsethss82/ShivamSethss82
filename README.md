@@ -4,17 +4,9 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-seth-2a0921171/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:shivamsethss82@gmail.com)
 ![](https://komarev.com/ghpvc/?username=ShivamSethss82&color=brightgreen&style=for-the-badge)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-<div align="justify" markdown="1">
-  
-Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion for pushing the boundaries of technology, I consider myself not just an AI enthusiast, but also a relentless problem solver. My journey in the world of programming has honed my skills in languages like C/C++ and Python, enabling me to craft elegant and efficient solutions. I find true joy in delving into the intricate landscapes of artificial intelligence, where every challenge becomes an opportunity to uncover new horizons and redefine possibilities.
-
-</div>
+<h4>Hi I am Shivam Seth💇‍♂️ , A DevOps-Driven Fullstack deveolper from India. I'm delighted to welcome you here. I have a profound knowledge in Java, Spring Boot, Python & React, enabling me to craft elegant and efficient solutions. I love to work with new Technologies and like to learn new things everytime, where every challenge becomes an opportunity to uncover new horizons and redefine possibilities.<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
@@ -29,7 +21,7 @@ Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion f
 
 
   
-<h2> Technologies I worked with :-</h2>
+<h2> # :sparkles: My Skills ✨</h2>
  <table width="100% height="100%" align="center">
    <tr>
       <td>
@@ -74,7 +66,7 @@ Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion f
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     </td>
      <td align="center">
-       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+          <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td> 
      <td align="center">
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
@@ -82,18 +74,18 @@ Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion f
         <td align="center">
        <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
      </td>
+      <td align="center">
+       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+     </td> 
     <td align="center">
-       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
      </td>   
     <td align="center">
        <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
      </td> 
-       <td align="center">
-       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-     </td> 
-       <td align="center">
-       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-     </td>  
+    <td align="center">
+       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+     </td>
    </tr>
 
  </table>
@@ -126,7 +118,7 @@ Hello, I'm Ayush Thakur, and I'm delighted to welcome you here. With a passion f
 <br>
 
 <div align="center" markdown="1">
-# :handshake: Let's Connect
+  <h2> # :handshake: Let's Connect ✨</h2>
 </div>
 <div align="justify" markdown="1">
   
